@@ -1,0 +1,31 @@
+{
+  "status_response": {
+    "version": {
+      "name": "A szerver offline",
+      "protocol": 0
+    },
+    "players": {
+      "max": 69,
+      "online": 0,
+      "sample": []
+    },
+    "__comment__": "Favicon png as a base64 string.",
+    "favicon": "",
+    "description": {
+      "text": "Ez egy cucc izé",
+      "color": "&123456",
+      "underlined": true,
+      "bold": true,
+      "italic": true,
+      "strikethrough": true
+    }
+  },
+  "kick_message": {
+    "text": "Még nem fut a szerver",
+    "color": "#fedcba",
+    "underlined": true,
+    "bold": true,
+    "italic": true,
+    "strikethrough": true
+  }
+}
